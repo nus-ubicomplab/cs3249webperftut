@@ -10,6 +10,7 @@ Tutorial Walkthrough: Optimize Cam's Pizzeria webpage to achieve a Lighthouse Pe
 
   ```bash
   $> cd /path/to/your-project-folder
+  $> npm install
   $> node server.js
   ```
 
